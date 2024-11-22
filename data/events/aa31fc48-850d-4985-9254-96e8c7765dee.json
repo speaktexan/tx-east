@@ -3,8 +3,8 @@
     "e01fcb61-6ab4-4eb7-8a38-272abf4767e8": {
       "label": "Language_Lufkin_NR",
       "is_offline": false,
-      "file_url": "",
-      "duration": 0,
+      "file_url": "https://archive.org/download/language-lufkin-nr-06192024/Language_Lufkin_NR_06192024.m4a",
+      "duration": 4171,
       "caption_set": []
     }
   },
@@ -24,6 +24,6 @@
   "label": "Language_Lufkin_NR",
   "created_at": "2024-11-22T21:32:38.425Z",
   "created_by": "speaktexan",
-  "updated_at": "2024-11-22T21:32:38.425Z",
+  "updated_at": "2024-11-22T21:42:38.403Z",
   "updated_by": "speaktexan"
 }
