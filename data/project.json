@@ -1,1 +1,43 @@
-{"publish":{"publish_pages_app":true,"publish_sha":"","publish_iso_date":""},"users":[],"project":{"github_org":"speaktexan","is_private":false,"title":"East Texas","description":"Language and Communication interviews from East Texas","language":"en","slug":"tx-east","creator":"speaktexan","authors":"","media_player":"avannotate","auto_populate_home_page":true,"additional_users":[],"tags":{"tagGroups":[{"color":"#ADFFD9","category":"Speaker"}],"tags":[{"category":"Speaker","tag":"Interviewer"},{"category":"Speaker","tag":"Participant"}]},"created_at":"2024-11-22T21:30:57.453Z","updated_at":"2024-11-23T15:19:36.511Z"}}
+{
+  "publish": {
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
+  },
+  "users": [],
+  "project": {
+    "github_org": "speaktexan",
+    "is_private": false,
+    "title": "East Texas",
+    "description": "Language and Culture interviews from East Texas",
+    "language": "en",
+    "slug": "tx-east",
+    "creator": "speaktexan",
+    "authors": "",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [
+        {
+          "color": "#ADFFD9",
+          "category": "Speaker"
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ]
+    },
+    "created_at": "2024-11-22T21:30:57.453Z",
+    "updated_at": "2024-11-23T15:35:59.938Z",
+    "generate_pages_site": true
+  },
+  "is_private": false
+}
