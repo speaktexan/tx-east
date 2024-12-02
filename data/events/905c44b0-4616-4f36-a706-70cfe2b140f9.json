@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "52146b37-e2bf-4cbc-8334-d980bc66328e": {
+      "label": "Language_Azle_HL_06252024",
+      "is_offline": false,
+      "file_url": "https://archive.org/details/language-azle-hl-06252024",
+      "duration": 90,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Azle_HL_06252024",
+  "created_at": "2024-12-02T17:06:50.446Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-02T17:06:50.446Z",
+  "updated_by": "speaktexan"
+}
