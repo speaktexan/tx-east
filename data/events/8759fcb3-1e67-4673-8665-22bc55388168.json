@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "9ac2f883-3018-48cc-8af0-ccad59baee59": {
+      "label": "Language_Azle_HL_06252024",
+      "is_offline": false,
+      "file_url": "https://ia800805.us.archive.org/23/items/language-azle-hl-06252024/Language_Azle_HL_06252024.mp3",
+      "duration": 1033,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Azle_HL_06252024",
+  "created_at": "2024-12-08T00:04:23.795Z",
+  "created_by": "speaktexan",
+  "updated_at": "2024-12-08T00:04:23.795Z",
+  "updated_by": "speaktexan"
+}
