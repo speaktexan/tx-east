@@ -1,5 +1,1959 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "This is [INTERVIEWER]. Today is June 25, and I'm here in Beaumont, Texas for an interview with one\nof our community members. Before we begin, I'd like to get verbal consent for the form that we went\nover. Can you please say I consent to being interviewed and audio recorded for this study?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "eaf3f83f-0fc5-4aea-9884-5f2bfc01fa34"
+    },
+    {
+      "start_time": 18,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've been... um, could give you my consent for this audio and recording."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "641f8dbf-e717-468b-a37c-1b1bc41ea7e5"
+    },
+    {
+      "start_time": 24,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "9f3c7c2b-f4a5-4f12-ba73-c6de3b98f438"
+    },
+    {
+      "start_time": 29,
+      "end_time": 41,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I was born in this community. And with my father and my mother. When I, you know, know that I\nwas in this community and never left this community."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "30403a72-77f4-4a5e-bc6b-8c70350d2dcc"
+    },
+    {
+      "start_time": 41,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me a bit more about this community? How would you describe it to someone who doesn't\nlive here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "040bd92c-50f9-4d85-9f18-7cf7c6f85c7e"
+    },
+    {
+      "start_time": 47,
+      "end_time": 160,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, from my experience, and being here this long, it's a good community in certain areas. And why I\nmean in certain areas, and certain times of the years that we're in... everybody got along in this\ncommunity when, you know, when I was born. And my teenage, teenage years was great. As I look\nnow, where we at, I was born in 1964. 19, 20 [reffering to 2019 and 2020], when everything with 1920,\nto 19... um, um... I mean... let me change that. 19 [reffering to 2019], um, when COVID hit. Everything\nstarted changing around. From everyone getting sick, you see more depression, you know in people.\nMore killing. I never thought I would see my town turn into a disaster due to COVID. Where everybody\nwas locked in and people just thought, you know, getting out of control. Other than that, the crime has\nnever been... that I I was aware of and living here where I was scared to go places. Or just to approach\na young child and to correct them. You know, right now you got kids that you don't even know their\nparents anymore. Where they're coming from. Because it's not just the kids, it's parents too. That bad\ndepression hit us as, I would say mind wise. You know, mental state. And you see it every day. And this\nis when everything started changing around 2019. Harvey [reffering to Hurrican Harvey], didn't bother\nus as much. We got hit with Harvey, but everybody made a comeback. But when COVID hit, it just took\na lot away from the family. You know, just totally Beaumont, Beaumont period. It took a lot away from\neverybody. Yes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b8033dd8-e678-4915-9a00-94d6141188ac"
+    },
+    {
+      "start_time": 160,
+      "end_time": 165,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f87fc12e-77e6-42a5-b14b-7702600f443f"
+    },
+    {
+      "start_time": 165,
+      "end_time": 214,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot. Had changed a lot. You know, from gas prices, from everything in place went up. Everything went\nup. Food, everything, everything. You know, the cost of living never changed, but everything in prices\nwise. And this is why I think family is struggling with hardmental, you know, stage right now. Affording to\nkeep the rent. Affording to keep food on the table. You know, all the jobs, that has been lost due- from\nrestaurants. And you know, it's- it's just not a community like can be brought back at this time. If you\ndon't get the job, if you don't get what these family have, what they need, and they don't have what they\nneed. That's why you have so much crime."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "e2a0d9e1-c6d7-410f-925e-7604e6fee3f4"
+    },
+    {
+      "start_time": 214,
+      "end_time": 218,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are the strengths of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e9a8bcf3-a28d-49a1-80f6-ea2dcdda23bf"
+    },
+    {
+      "start_time": 218,
+      "end_time": 225,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Prayers. Prayer. That's the strength we have right now. Nothing but prayers."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f53cd2e3-24f1-4627-8faa-9fa906b76e85"
+    },
+    {
+      "start_time": 225,
+      "end_time": 230,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What would you say are some of the weaknesses of this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "52e2d9f6-b742-4a51-a973-f8c26c0f2793"
+    },
+    {
+      "start_time": 230,
+      "end_time": 283,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The weakness of this community... just being lost. You know. Don't have enough, um. I would say an of\num... people that... I would speak up as a voice, um, first responders. You know, being first responders,\nit's not just first responder. Responders when someone gets hurt in the hospital. But we are not trained\nfor the medical problems that we're having. And for seeing in the homeless in this community now.\nSeeing people walking around here. The drug infested. You know, due to the mental state, we do not\nhave enough mental institute around here to take care of it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "723ac84d-167d-4fa0-9373-de1aaec355ab"
+    },
+    {
+      "start_time": 283,
+      "end_time": 288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Can you tell me about the roles and relationships you have in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "11a08537-98ff-4c3e-8874-dc7d34b4d0cf"
+    },
+    {
+      "start_time": 288,
+      "end_time": 316,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I play a lot of roles. You know, I'm a Participant. I'm a provider, take carer. I'm a respectable person in this\ncommunity. Always has been, and this is what hurts me. To see I can't do anything at this point. It's got\nto take from the higher up to recognize what's going on to give us the source that we also need to\nprovide to bring this community back."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1d89388b-73bb-4c3f-938a-0247c3497bd5"
+    },
+    {
+      "start_time": 316,
+      "end_time": 317,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What do you do for work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f06cf3de-11d3-4987-9d24-70b05feaee08"
+    },
+    {
+      "start_time": 317,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everything. I try to do everything and fit in places where maybe I shouldn't be. But to see that\neverybody is working together as a group. Or everybody, we're working together as a group, and\nmaking my work where everybody feel like they have a part of a family here. So it's just like, if you need\nsomething, and if I have it, I'm willing to help you with it. Try to direct you to the right source that who\ncan help you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "28954935-1b20-4039-8584-5da94addadf4"
+    },
+    {
+      "start_time": 350,
+      "end_time": 357,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How do you think your connections in this community influence your work as a therapist technician?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d6fd5fed-8fb2-4f11-9600-67179b471440"
+    },
+    {
+      "start_time": 357,
+      "end_time": 373,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot, because I learn from the therapist. And the ther-, you know, assistant therapy. So it's like, hands\non, eyes on. And you can learn a lot from them. You know, just watching and listening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "c67e5018-df75-423c-bb35-cb07824d551b"
+    },
+    {
+      "start_time": 373,
+      "end_time": 380,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now, I'd like to talk more about your work. Could you tell me about how you got into this role?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "4dff805c-e84e-4e48-84d0-45e990e39091"
+    },
+    {
+      "start_time": 380,
+      "end_time": 480,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I got into this role. I was blessed with this role through the good Lord. I was taking care of my\nfather, and what happened was, they told me, I couldn't take care of him no more after he got sick. And\nI refused to give him up. And what happened was, when I refused to give him up, I still took him home\nwith me. I didn't want to see him in a nursing home. But I had applied for the medical position. And I will\nsitting, and my dad was having surgery, getting ready to go to surgery because he had a, a brain bleed.\nAnd I was sitting there and I told- because I was a manager downtown at Goodwill. I have license as a\nbeautician. And I spoke to the Lord. And I say, Lord, I'm not going to give my dad up to go back and\nwork and do those positions that I already had. Because I dropped all to take care of my dad. And I\nsaid, Lord, you're gonna have to fix it. And this voice came, it's like, \"I will fix it\". And I'm listening. And I\ngot a phone call from [NAME OF HOSPITAL IN COMMUNITY]. And I said, I see what you saying, God.\nI'm gonna have to give him up, but you've given me more people to go take care of that needs me. And\nyou the only one to fix it because it's like, what I wanted to do for my dad, I want to do it for anybody\nelse. But I still brought him home, now. Okay, until I wasn't able. I wasn't a registered nurse to give him\nhis medicine that he was going to be needing with injection. And I cried all the way to bring it into the\nnurse. But I was able to visit him every day. I made sure I was able to visit him every day where I put\nhim. And he had the best care when I put him into nursing home. [DOOR CLOSES] Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f1dc5ecc-23a0-407c-826b-245b22231439"
+    },
+    {
+      "start_time": 480,
+      "end_time": 482,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How long have you been working here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0c4e7a62-d768-4d27-a8e8-ddc47a364a63"
+    },
+    {
+      "start_time": 482,
+      "end_time": 515,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "25 years. Also not in the outpatient. I started in inpatient, in the hospital. And then I transfer over to the\noutpatient because I had young kids and allowed me to even adjust my schedule. I had two sons. The\nadjust- allow me to adjust my schedule, where I was able to be there in the evening on time to pick\nthem up from school. So that's why I transfer to outpatient the time. And they had opening."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "fe83c340-31e8-41a4-8728-c27f52664d45"
+    },
+    {
+      "start_time": 515,
+      "end_time": 518,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does a typical workday look like for you?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8878d9a4-0fea-4eaa-879a-9f271c6d9ef6"
+    },
+    {
+      "start_time": 518,
+      "end_time": 553,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Everyday is busy. Everyday is busy. A typical work places making sure everyone is safe. Everyone is\ntaken care of. I does what I, I do, um water, um, aquatic class. And I do three classes a day. And I have\nover 15 to 20 ladies in the pool. So my responsibility 'cause the floor stays wet, to make sure they're\nsafe. I'm safe. And make sure I know each and every last one of them by their name when I speak to\nthem."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6112598c-b978-4a30-929c-224efa9cebe0"
+    },
+    {
+      "start_time": 553,
+      "end_time": 559,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What does it mean to be a therapist technician in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "d1d84a95-cec2-45d7-acd5-125782731326"
+    },
+    {
+      "start_time": 559,
+      "end_time": 593,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It means a lot. It means a lot. Because one day I might need a therapis. And just to know the things that\nI seen my therapist do. To know that one day I'm gonna be that age or one day on the need a good\ntherapist. And knowing that I have worked around good service that have you know, just teaching me a\nlot about bones, this back. People from stroke. Just knowing that what I'm getting out of it. Being a\ngood technician. That's what it is. Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1164ceda-aa68-492e-a1d3-fcf967a4491c"
+    },
+    {
+      "start_time": 593,
+      "end_time": 598,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What aspects of your job bring you the most joy or satisfication?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e8f32900-4b2e-4459-9a68-592da81aeb5c"
+    },
+    {
+      "start_time": 598,
+      "end_time": 611,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Seeing someone that came in, they couldn't walk. And watching my therapist then get them back on\ntheir feet to live a normal back to their independent life."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "92ada43b-65d2-4b18-a2ee-d7f988139d9b"
+    },
+    {
+      "start_time": 611,
+      "end_time": 616,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What are the biggest challenges you face in your work?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2c28ed80-a829-4a08-93ba-5b467e4c6060"
+    },
+    {
+      "start_time": 616,
+      "end_time": 636,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, there's no challenges that I face. Because even if I can't do it, I'm going to try to do it. You know,\nbefore I give up,. So that's the challenge. Trying to do it and then just say, \"No, I can't do it.\" You know?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "88f49259-5de1-43b6-9ac1-0a3f5f0f61d1"
+    },
+    {
+      "start_time": 636,
+      "end_time": 681,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now let's talk more about your experiences as a resident of this community. For the first set of\nquestions, I'll read a statement to you. And I'd like you to indicate the extent of your agreement with\neach one. I'll have you give your answer on a scale to one to four. One is completely disagree. Two is\nsomewhat disagree. Three is somewhat agree, and four is completely agree. If you'd like to comment\non any of these statements, please feel free to. The first phrase is \"I consider myself to be an\nAmerican.\" Would you say that you: one- completely disagree, two- somewhat disagree, three-\nsomewhat agree, or four- completely agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "95de28e5-f905-4d67-9ef3-2d95002e7c9a"
+    },
+    {
+      "start_time": 681,
+      "end_time": 683,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Completely agree."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6143dabd-e1ab-422f-b688-8326d920b302"
+    },
+    {
+      "start_time": 683,
+      "end_time": 692,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale, how would you rate the following statement? \"I consider myself to be a Texan.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "b394e658-08d1-4be4-85f5-86547a791caa"
+    },
+    {
+      "start_time": 692,
+      "end_time": 696,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I strongly believe I'm a Texan"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f8f995c2-9049-4f0b-8371-07c781a5bc80"
+    },
+    {
+      "start_time": 696,
+      "end_time": 712,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly? I am American first and\nTexan second. I am a Texan first and American second. Or being Texan and American are equally\nimportant to me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "fc07cc57-51af-49d8-b7f4-8e4018cc753e"
+    },
+    {
+      "start_time": 712,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Equally important to me. That one right there. Being a Texan and an American is equally important to\nme. I can, you know, it doesn't matter to me. And why I say that is because I am American. But all\nabove, I don't look at if I'm a Texan. If I'm over here, I'm over there. My thing is, I'm the person who I am\nand I will treat you as you treat me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "3616aab5-26cd-4c66-8c35-ac962deec5d6"
+    },
+    {
+      "start_time": 737,
+      "end_time": 750,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. The next phase is, \"To be a true Texan, you must know how to speak English.\" What would you\nrate this one using the same scale we started with?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "47cb1b46-b6b5-47aa-b44f-1452e601b75c"
+    },
+    {
+      "start_time": 750,
+      "end_time": 758,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I disagree. I totally disagree. To be a Texan, you don't have to speak English. I totally disagree with\nthat."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "7016bd05-e91b-4f85-bb61-ab2762f04bcc"
+    },
+    {
+      "start_time": 758,
+      "end_time": 763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "How about, \"To be a true Texan, you must know how to speak Spanish.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2d82885a-e7d3-42c4-aa40-0e2ac201d9c4"
+    },
+    {
+      "start_time": 763,
+      "end_time": 767,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I disagree with that."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "75ad531d-8584-4518-a288-4abf01659799"
+    },
+    {
+      "start_time": 767,
+      "end_time": 776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is, \"In my community, you can do everything you want and get everything you need,\neven when you don't speak English.\""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "352f8e9d-d235-4358-aaa9-88accb2f0d8d"
+    },
+    {
+      "start_time": 776,
+      "end_time": 777,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Correct."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "98e857f3-f386-49f2-89d7-c1275250fe41"
+    },
+    {
+      "start_time": 777,
+      "end_time": 780,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, completely agree or somewhat agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f42fcd09-c1f6-4dcd-a00c-e58a0f12266a"
+    },
+    {
+      "start_time": 780,
+      "end_time": 854,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I... on that, saying that, it's just like English. Okay, and it's just like if you speak Spanish or another\nreligion. It's not that it's hard for you to get anything. It's how you look at it. Because everyone should\nbe treated equally. And that's the way I'm answering that. It's not about how I speak. Everyone should\nbe treated equally. And that's the way I treat everyone. It doesn't matter. Even if I go in the back of the\nparking lot, and I see someone's is Hispanic, Filipino or whatever. If they need help, or trying to find\nsomething, they don't have to speak. They hand me their phone, and I can give them the direction. So\nyou understand where I'm coming from. I'm not looking at what language you speak. I'm trying to make\nsure you get where you need to be and treat it where you feel comfortable. Where you can walk up to\nme if you see me no matter what color I am, no matter how I speak. I want to make sure you okay, if\nyou walk up to me. I will not turn my back on no one. Has been here 60 years, I was not raised that\nway."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a0b7488a-8211-4bcc-b6cf-9db658796067"
+    },
+    {
+      "start_time": 854,
+      "end_time": 866,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, \"In my community life has been pretty stable over the last 40 years. Things haven't changed\nmuch.\" Completely disagree, somewhat disagree, somewhat agree or completely agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "047f8280-a694-466b-8353-fd054f6b93a1"
+    },
+    {
+      "start_time": 866,
+      "end_time": 868,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I disagree. A lot have change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6e4e3ced-f98d-48cd-b6f6-cf3e739b9cda"
+    },
+    {
+      "start_time": 868,
+      "end_time": 869,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a9f92cc9-46c8-47f9-b52a-593badeb83d1"
+    },
+    {
+      "start_time": 869,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Strongly disagree. A lot have change."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0bad2717-1f97-4758-91d4-a1ce4a65497f"
+    },
+    {
+      "start_time": 872,
+      "end_time": 881,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Now I'd like to hear from you about the community itself. What are some of the things that have\nchanged in this community during the last few decades?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "02443794-ccc6-4b19-ae0b-2e5b048bccf4"
+    },
+    {
+      "start_time": 881,
+      "end_time": 957,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like I say, more sickness. More killing. More unhappy homes, kids and family. More parents not at\nhome. Broken community. It's a broken community. And when you have a broken community, you don't\nknow- it's more angry people that treat good people wrong. Because it's broken. I, all the days I went, I\nworked plenty jobs, and I can communicate and my co workers- it didn't matter who you were. Now it's\nlike, it's broken. People have no respect for each other anymore. Kids, the dressing of the community of\nyoung people. You know, putting them somewhere, and someone house and it's not to help them. You\nknow, kids are having babies back to back. You know, it's, it's very broken. You know, it's very broken.\nNo communication. And even with the school district, I have never seen the schools just failing our kids,\ndue to our kids being disrespectful of a teacher. That's hard for a teacher to teach."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "8cacfba4-e65c-41b8-823e-ebbc5c593afd"
+    },
+    {
+      "start_time": 957,
+      "end_time": 961,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Overall, is this a good community to live in?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f460430d-0957-4051-a798-308a49cb6242"
+    },
+    {
+      "start_time": 961,
+      "end_time": 1118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It can go back to being that. I would never give up on my community. I would never give up on the ones\nthat's with mental health or anythin. I would never give up on it. Every place is a good place. Just gotta\nget the resources. And if we get the resources that we need back in here, you know, because you have\nto look at it really. Not too many people want to be cops anymore. Not too many people want to try to\nfire when it's hot outside. Not too many people want to put their lives in jeopardy because they got\nfamilies, they want to make sure they come home. So that's beautiful. So back then when a police\nofficer can tell you to stop, you would do that. [BACKGROUND VOICE] You know, if a police officer,\nyou can walk up and shake his hand, a fire department. We'd had all of these people around, and we\nknew their family. Now that you have this generation that comes about, it's totally different. If you don't,\nit's not from the neighborhood, or family member here that stayed here. Either they're dead, or they go\nand take care of a loved one that moved out of town or another. But you don't have that age, that's still\nliving at my age got to see these days of good people that still around to you know. We got to start\nsomewhere with these family and these houses and these kids. You know, they got more, I'm gonna\nput it like that. I worked all my life take care of my kids. But when you having four and five kids, and the\ngovernment handing you the money to put them in these type of houses- please you think they're\ngonna be able to stop having kids? You ever think they going- they get more groceries, they get more\nlight bills paid anybody. So you looking at a community, you understand that what I gotta go to work\nfor? Why I got to go out here and work and I'm getting a fee each month? More money than me is when\nyou get in 14 and $1,500 in income tax for a kid and also getting government money for them. What\nthey're gonna work for? And if you look in the community, you got more hair, wig shops and everything.\nThey're not closing. Yea. They're not closing. The restaurants closing. Okay, you see what I'm saying?\nSo when you got that going on what that tell you? Hair, nails, and eyelashes and all of this going on\nwhat that tell you? Yeah, that's what community at. Okay. [LAUGHTER] I'm just being honest, they\ndon't care about- why they're gonna go work at a restaurant? And when you can sit home and get\n$1,500 for each kid each month."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "b2e45991-28c0-4540-ad13-12f746872bd0"
+    },
+    {
+      "start_time": 1118,
+      "end_time": 1127,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was or is the best part about being a kid or young person in this community?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "75497b67-be7e-4d24-b010-6c515aaf1aaa"
+    },
+    {
+      "start_time": 1127,
+      "end_time": 1278,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "We was never a- we had a garden, my parents. All our friends came over and there was respect. My\nparents knew their parents. So when one kid get in trouble, you might can't come to our house for a\nweek. We didn't have the TV or the phone. We couldn't- we weren't allowed to use the phone. And we\nweren't allowed to have a phone because we had house phone. I didn't learn my phone number until I\ngot old enough and I looked at my dad hard hat. That's where my mom take the number. We didn't\nhave access to our house phone. It was only used for emergency. If he went to work, or his job needed\nto call or my mom talked to her sisters and brothers, you know, his family. And we had all friends, the\nwhole community knew us. They would come down help us in the garden. We had a well. We would\nplant our own food, everything. And we, we stayed together as kids because now the neighborhood\nwhere I grew up in is gone. All the houses gone. Parents then died off. Some of the kids moved away\nand never came back for these parent's home. And they you know, [INAUDIBLE] they all still working. I\nhave a few classmates, like this weekend, I had this um retired. Kids going to college, you know. We're\nthe last- we seem like we're the last generation besides the parents that was- let me slow- the parents\ndeath around my age, everyone of them kids are doing good, 60, 65 and that age. Because we all grew\nup in the same neighborhood at that time. You know where your kids at, you know what they're doing.\nLike with you, as a young lady, you have working parents, so they showed you more. You got parents\nin your household like I did. You know, and they demand that you respect them. They demand that you\ngo to school. That's not for them. That was for you to get your job. And that's what was told to me. You\nnot going to school to give me A's and B's. This is your job. Same way I'm going my job, you better\nrespect that teacher. And back then you would get paddled. You wouldn't, you wouldn't- if you did\nsomething wrong that teacher caught, you gonna get paddled at school, and you better not disrespect\nthat teacher. And you're gonna get a whopping when you get home. And they wouldn't just giving away\ngrades, you know, they made sure you, um, got it. [LAUGHTER] Tell you a lot more than what you\nthought I was. [LAUGHTER] But it's okay, I gotta tell you. Like I gotta tell you. Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5447a07d-7170-4079-bab0-b74086000440"
+    },
+    {
+      "start_time": 1278,
+      "end_time": 1294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you feel that the traditional way of life in this community is going on- going away? And if not, if your\nanswer is yes, why do you think that's the case? And if no, what do you think keeps things the same?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6620100d-a54e-4022-bd2e-bf365c705416"
+    },
+    {
+      "start_time": 1294,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Like I say, no, I don't think it's going away. I just believe in the time that was, you know, everything\nchange. And like I said, we got good community leaders. We got people that still help from the city, you\nknow, from our mayor and Mayor West and like I say, just bringing the community back. And like I said,\nit's not the community that- it was, like I explained, it's when COVID hit. This is when everybody started,\nyou know, lockdown.Llockdown, people came in, a lot of people didn't understand lockdown. You know,\nthat was the thing. Our city never been in lockdown as long as the years I've been here. And there was\na mental challenge for a lot of people and young people. So you look at that, and you can't go\nanywhere. Your parents telling you, \"You're not going anywhere because it's a lock down.\" You still\ncan't go and just stay at home. You're not going because there's a sickness, because you got elderly\ngrandmothers in your house. You can't go down there and play outside still, because COVID. COVID\nlocked everybody because nobody wants to get sick; people start dying. So you imagine what the\nparents, barely can go to start with their head at home. When you think about Spectrum or you\ndownload any game on TV. So you imagine that. And always, games the kids was playing while some\nother students still had to go to work when they was in school. That was some mother's babysitter.\nBecause 30 minutes the mom is coming home when the kid was getting out of school. So you imagine\nthat mom all day, the one that's forced like me a nurse first responder. Leaving that child at home and\ndidn't have a choice but to work because you first respond. You understand what I'm saying? You just\ncan't take off when you're a first responser. So nobody was prepared for this. Not even the kids, not\nbeing able to see different. So you look at this. Light bill going up at home. Water bill going up at home.\nGroceries. And then these kids are locked down all day. Not able to see they friends; not even to talk to\nthem because all kids didn't have cell phones. And then it came where okay, they decided to give them,\nthe year before, but- nobody had the internet when they needed the tablet when school started. So\nsome parents couldn't afford the internet. So the only way they was able to connect on an internet, if\nsomebody next door allowed them to help that. You know they cope. So you imagine them kids in that\nhouse all day. And another one didn't they also put what is suppose day of school online"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "a890cfb8-0635-4500-9d45-eec369f4aac3"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1467,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yea."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "06d0fcbb-2e89-4ef5-96f2-501696b7e220"
+    },
+    {
+      "start_time": 1467,
+      "end_time": 1537,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So that's why they started given out tablets, BISD, to try to catch up here with the school. You know,\nthe state where the schools still get the fundings and things that they needed. But that didn't happen.\nKids weren't getting up on time because they were so depressed. You know, they weren't looking at\ndoctor's office was close. The ones that needed they medicine. MHMR close. It was a lot of things that\nshut down with COVID. So you imagine how bad psych weekend is. And when I say it's bad, it's bad.\nHospital overcrowding. So these people couldn't get they medicine. So we had to deal with it. We had\nto go in patient's room. You know, that had COVID because some of them came from the - remember\nthe nursing home. All of this was locked down. So this is when I noticed everything has started\nchanging for Beaumont. Around COVID. That's when it started getting more violent, more killing. Kids\nfighting they parents. You know, it just, the news went crazy. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "be22be7d-d3d9-4e88-9687-9f75f59ca697"
+    },
+    {
+      "start_time": 1537,
+      "end_time": 1540,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What is your favorite sports team?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "f64572b5-60ad-481c-a061-6ec6f144fca1"
+    },
+    {
+      "start_time": 1540,
+      "end_time": 1605,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Dallas Cowboy. And why is that? It's my favorite team because I grew up with my brother them, and\nthey was Dallas Cowboy. And so when you're in the household with your family, you gotta to stick\ntogether, stay together. So ain't no one going be no Red Skin and a nobody gon--. If your dad is a Dallas\nCowboy fan, you're gonna stick and stay in the south. [LAUGHTER] That's how it came, when it came,\nand the first time I watched the first football Dallas Cowboy, Rogers Staubach was the quarterback.\nYou don't know nothing about him [LAUGHTER]. That's when I came to know football. Roger Staubach\nwas the quar-. And he had throwing, he'd call them a Hail Mary. And it'd be like, one minute left on the\nclock. And he'll throw it all the way down the- all the way down the field. And guess what? We win\n[LAUGHTER]. We be behind, but we win. Okay? Yeah. [LAUGHTER] And the clock goes out. And\nthat's it. Win by one point. [LAUGHTER] And he did that about maybe, I'm telling when I was about\nmaybe five or six, maybe, maybe maybe six times he'd threw a Hail Mary."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "cbb79376-eb52-4123-bf79-eea58f041993"
+    },
+    {
+      "start_time": 1605,
+      "end_time": 1609,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh yeah? So how have the Dallas Cowboys been doing lately?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "aaac2b14-4d31-42fb-a523-58dbb824553a"
+    },
+    {
+      "start_time": 1609,
+      "end_time": 1660,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, we hadn't won in a pretty good minute. But my nephew graduated from here. And Mr. Jerry Jones\nhired him when he went to, uh, uh, UT of Dallas. He became Jerry Jones private- he was doing working\nfor that. Uh, um, the Dallas Cowboy and Jerry Jones. Seeing him doing his, um, own thing, his, um,\ntour. And when he- he didn't know that was Jerry Jones and Jerry Jones hired my nephew at the\nstadium. And to work his box. And that was pretty- that was, that was the most we've ever. Now we're\nofficial Dallas Cowboys. [LAUGHTER] Because he gave him the key to- he gave him the key to the city.\nThey love him. Mhm. UT of Arlington. He became an ambassador. He became the U- uh the king at\nUT. And right now he's in Los Angeles. And when I tell you he's famous, a celebrity now. [LAUGHTER]\nHe did what he was supposed to do. And my sister work every day hard to take care of her kids to\nmake sure that they had what she didn't. And all of them doing good, all the two kids doing good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "03c66e73-afbb-45a1-b652-a6da1f7c3902"
+    },
+    {
+      "start_time": 1660,
+      "end_time": 1697,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh really? Did you have to do chores when you were younger? Or now?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "97647d26-f1e8-401c-bb2d-a9c61bd9fd23"
+    },
+    {
+      "start_time": 1697,
+      "end_time": 1742,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I did chores when I was six. It was eight of us. So we all had a week washing dishes. I don't care how\nbig the pots or the pan was. With 8 of us, we was we was responsible. Our house never, ever [DOOR\nSHURTS] was dirty, out of eight kids. And out of the eight kids, it's the boys, it's me and my sister. And\nall together it was a three bedroom. And my dad went to work every day and our house stayed perfectly\nclean. Yes, I had chores. Cooking, everything that a mom would do because I was the oldest sister,\nand I had four young ones under me. I was the middle. Middle, and I was the oldest girl at the middle.\nMhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "51cd795f-427d-431a-bd9a-213299e8966b"
+    },
+    {
+      "start_time": 1742,
+      "end_time": 1745,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the worst chore?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "a9acfbd2-b276-4b29-8d85-973e5165710d"
+    },
+    {
+      "start_time": 1745,
+      "end_time": 1760,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Really none. Because I would- I did all I, I enjoy what. You know, it really wasn't none. We had to do it.\nWe had to do it. We didn't have no decision to make the worst. You know which one you don't like to\ndo. We had to do it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "1d85e532-ec32-4e3e-844b-c326a25305dc"
+    },
+    {
+      "start_time": 1760,
+      "end_time": 1763,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What was the chore you didn't mind so much?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "05e43dec-6004-4e2d-ae50-5655e4ec011c"
+    },
+    {
+      "start_time": 1763,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cooking. I like cooking. Just to see the smile on my brother and sister. Who they wanted to cook today?\nMom or me? So you know they picked me."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "71f99f2f-4342-4b10-ad20-5b05d7826d55"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1776,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh [LAUGHTER]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "e8bb9c86-0e8c-45c5-b064-5ef200a0fc58"
+    },
+    {
+      "start_time": 1776,
+      "end_time": 1794,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I like cooking. That's my best- I don't go out and eat at restaurants. I like to cook. I'll go, but I gotta be\ninvited. But other than that, I'm going home to cook. [LAUGHTER] I don't like anybody's food. I've tried,\nbut I like my food. [LAUGHTER] Cooking. I was taught how to cook really good."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "0abf25dd-a238-4f2f-b8f9-857d4f37703d"
+    },
+    {
+      "start_time": 1794,
+      "end_time": 1798,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever get caught pretending to do a chore but not really doing it?\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "6b54c3e0-57d6-4940-a151-ba710906d7b4"
+    },
+    {
+      "start_time": 1798,
+      "end_time": 1819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No. We got- we had checks. [LAUGHTER] Our parents would come behind you and check. So we you\nknow, if that, if I did, I can't remember. Because if you didn't do it, you're not going outside and play.\nYou're not going with your friends. And they always check behind us to make sure we did what you're\nsupposed to do. And we did."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "18913fbb-9790-4ad6-a9e6-16ca2d041f84"
+    },
+    {
+      "start_time": 1819,
+      "end_time": 1825,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Some people think that it's hard for boys and girls to be friends, what do you think?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "2b0a65ec-da23-4299-afe7-35ef32312fa8"
+    },
+    {
+      "start_time": 1825,
+      "end_time": 1907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Easy. It was easy for me because like I said, I'm in the middle. And they had no choice. So when my\nbig brother wanted to go play with his friends, he had to take me with him. So they all took care of me in\nthe neighborhood I was raised in because they have sisters. And if my mom had to cook or do\nanything, I had to go with my big brother. I started at the age of six. Like I said, because during the time\nI started school, school, they say, and said that I wouldn't turn the age. I was too old to go to, um,\npreschool. So I missed a year, and I started in kindergarten. So at that time, my brother had- he, he\nwas, uh, throwing newspapers for the Beaumont Enterprise. So he would go to, um, school, and they\nwould bring all the papers to the house. So the thing was, by the time he get home, he showed me how\nto roll this newspaper. So when he got home, I roll out his newspaper and put them in plastic bags if it\nrained it didn't. I had to put the rubber band around. And he had a banana-seat bicycle. So I would ride\non the back of it and help him throw newspapaer. [LAUGHTER] I had a good childhood life, I really did.\nI enjoyed my brother and sister. Mhm."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "5cf52dac-0ce4-46b4-a8cc-69f12893e821"
+    },
+    {
+      "start_time": 1907,
+      "end_time": 1919,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Did you ever tell a story about another person thinking the other person was not near you, but then\nturned around and saw that person was standing right next to you? Could you tell me about this? What\nhappened?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "64028588-fc16-4d37-8ccd-482307763c61"
+    },
+    {
+      "start_time": 1919,
+      "end_time": 1949,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Never. Never. If I got something to say about you, or this is like I said what I was talking about, if I got\nsomething to say I'll talk to you. I've never experienced nothing like that in my life. Because if I meet\nyou, and say something happened to me and you or something. No, I'm not going to discuss it with\nnobody else. And if I don't like it I'll come pull you to the side, but I never experienced that. I never did,\nnever that I can recall in 60 years have I've been here."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2dbac895-436a-41f2-b196-6be4123c95bb"
+    },
+    {
+      "start_time": 1949,
+      "end_time": 1954,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "A lot of people think of the 1990s as the golden decade of pop music. Do you agree?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "979582e8-c88b-4a48-ab34-df5f4e2cd3ba"
+    },
+    {
+      "start_time": 1954,
+      "end_time": 2104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It was good music. It wasn't no cursing. I agree. It wasn't no nasty talking music. Yes, I agree. It was\nmore relaxed. Because you can turn the radio on and ride all day long with your children in the car. My\nparents can turn music on all day long, and we can ride; we all singing the same song. You can play it\nin your household. Now you turn the radio on, now you don't even know what you're listening to. You\ndon't know what channel you going get. But when I was a kid, we all sing along when we riding in the\ncar. Or we played music and put our little brown Participant and the music- and the window while we cut\nthe grass. When we get to play baseball. [LAUGHTER] It'd be 15-20 kids in our yard. Okay, we got our\nown baseball field, played baseball. And they come in and they know our place as \"the bottom\". They\ncall it \"the bottom\". All the kids will come to \"the bottom\" because they like coming down here. And then\non Saturday and Sunday that was our- after we finished, my brother and cutting the grass and\neverything. We would all the kids would meet us there about three, four o'clock, and our parents sit on\nthe porch. And my mom would fix the sand, um, sandwich and make us some Kool Aid. And you know\nwe have our [?] when they watch us play baseball. And we would put out the brown Participant in the\nwindow, and, and our parents and neighbors next door. Like I said we have a big fence. We have a\nwhole team on both sides. [LAUGHTER] Out field and in field. So we did our chores. We love that,\nyeah. You could play, turn the radio on any station, and it was good music. You turn the radio on now, I\ncan't even play the radio for my grandbaby. I have to turn, every few seconds I got to turn the channel.\nYou know even back then you had just the musical part of the- you know the jazz or the musical part.\nBut now, the sounds these kids hear if you don't turn the radio off. I didn't let my kids, I mean. My son\nbrought the first rapping tape home. Okay, he had tell you. And you know the little square box. It's Dr.\nDre. [LAUGHTER] I'm just gonna be honest [LAUGHTER]. \"Let me hearing what you hearing.\" Baby,\nby the time I took that, I'll tell you. My momma was stumped my [?]. I stumped it right, I mean when I\ntook it out and then I hear what they was saying and I [STOMP]. I crushed the whole tape. A friend\ngave it to him; they switched out from the tape I brought him."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "090f2d3b-a267-4a84-8621-31266058bc9e"
+    },
+    {
+      "start_time": 2106,
+      "end_time": 2107,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "dd4cb55f-d6e9-4833-9166-f12a31aab6dc"
+    },
+    {
+      "start_time": 2107,
+      "end_time": 2146,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Cause see because Prince, you know. I like that. But he didn't got- well rapping just first come out. I\nsee him bouncing. [DOOR SHUTS] [LAUGHTER] I was like, nah, something wrong. [LAUGHTER]\nSomething was wrong with that. You know with just the little cassette, they put on the first cassette. As,\nlet me tell you the day. My mama, I said don't you ever let me hear you do that kind of music. And to\nthink my, um, both my boys right now. They'll play like from Prince, Michael Jackson, all those old\npeople. I mean from every pop star they know that they don't get in the car and turn on music on I like\nthat with me. No, [LAUGHTER] my grandbaby there. Mm mm. But I got it on the radio station, just say\n102.1 and you hear Cardi B. I know you know about Cardi B. And she come on now, I hurry up"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "35180b64-d1d5-40e0-8331-fc6f1ff7e897"
+    },
+    {
+      "start_time": 2146,
+      "end_time": 2158,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. Yeah."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "805c54a4-b9a8-49b4-800a-5b876ef1abff"
+    },
+    {
+      "start_time": 2158,
+      "end_time": 2164,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "and just cut it. No, no. Mm mm. No. Music changed"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "723db628-87ed-49b0-ae11-981ac781215f"
+    },
+    {
+      "start_time": 2164,
+      "end_time": 2210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much for your answers. I really appreciate you taking the time to talk with me. If you have\nthe time I have, just have one last request for you before we conclude our interview. One of the\noverarching research questions through the Home to Texas program is about linguistic changes in\nTexas. As part of this project, a linguistic researcher is asking that interview participants read a brief\npassage, which would only take a couple of minutes. It's a short made up story about life in Texas that\nwas created in the 1980s. And since then, linguistic researchers have recorded a few 100 Texans\nreading it. They use these recordings as samples of people's standard way of speaking as they try to\ntrack how speech in Texas varies and changes over time. Would you be willing to read a brief passage\nout loud?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "8ec3ab8a-fcb3-4b27-99a3-13468c8c6746"
+    },
+    {
+      "start_time": 2210,
+      "end_time": 2235,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes [INAUDIBLE]. Well let's see if I can see it because I'm getting all my glasses. I, I you see I have\neye surgery tomorrow. I lived in Texas all my life. I was born in, come on I can't see it. Titus County? I\ncan't- what is that? I can't see it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "80c5d7b1-9eef-4ac0-940d-d61b710374f3"
+    },
+    {
+      "start_time": 2235,
+      "end_time": 2236,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's okay [LAUGHTER]."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "866cab4a-5a77-4c15-8203-18e48113f06b"
+    },
+    {
+      "start_time": 2236,
+      "end_time": 2263,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Titus Country, and when I was five we moved to a farm near the White House which is, which is\nsoutheast of Tyler. I like growing up in the, in the country. When my- I can't see it- chores was done I\nride my horse climbing trees or hiking. Hike down to the, um- like I'm very, because I have surgery\ntomorrow."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "2c70772c-7da3-476c-bc0e-ca2ce9b3ecf7"
+    },
+    {
+      "start_time": 2263,
+      "end_time": 2265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's okay, you don't have to read it."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "0a239091-526c-4384-a31b-7c534a23e739"
+    },
+    {
+      "start_time": 2265,
+      "end_time": 2424,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I want to read it. Hike down to the creek to fish or swim. One time we tied a rope to a limb of, of a\ncypress tree and we'd swing out wide we'd swing-. I'm going back- and we'd swing out wide over the\nswimming hole and drops into the water. I'd pretend to be Tarzan swinging on a vine. In, in the spring\nI'd fly kites, and on the summer nights we catch fireflies, but we call them \"lightening bugs\". Once in a\nwhile- I'm trying to see for you- we'd have fights with our corn cobs and pinecones. In the winter we'd\nbuild a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was, I guess I\nwas, I was a live wire. When I was 19 I went to work into Dallas at a Firestone tire store. I didn't like city\nlife, and for a long time I'd go home every chance I got. Mama would always cook my favorite foods:\nfried okra, Hoppin', Hoppin' John, what kind? Hoppin' John, that the rice and black eyed peas, and\npecan pie. We had lots, lots of good times, but going home is not the same now. After daddy died,\nMama sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the\ncity, but my wife and kids don't understand me when I grip about, gripe about city life and talk about\nmoving to the country. My oldest child said, \"Daddy that's crazy. I'd just die if I had to live on a farm.\" I\nalmost cried the first time she said that. I know Texas is changing but I try to make sure we don't lose\ntouch with our, our roots. While meanwhile, while we may live in the city, I want my kids to have a good\nfeeling for the land, have a sense of place, and take pride in being Texans. They lost, um, ties of the\nland, the price for progress is too high."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "4f23aeaa-18b1-4c67-8a7a-5cd7d17078b0"
+    },
+    {
+      "start_time": 2424,
+      "end_time": 2425,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "414cdca1-58e5-4d5f-8de0-f03346d6a042"
+    },
+    {
+      "start_time": 2425,
+      "end_time": 2430,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, uh, tried. I'm having surgery tomorrow. [LAUGHTER]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "6580a9a3-03f7-4ee6-ae24-75c2bd78300c"
+    },
+    {
+      "start_time": 2430,
+      "end_time": 2438,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you for contributing your voice to the collection. And thank you so much for taking the time to\nshare your experiences with me. I really appreciate your time and your generosity."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "3ffdb44d-cf08-4fa2-9c8f-13fde58cc002"
+    },
+    {
+      "start_time": 2438,
+      "end_time": 2439,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Participant"
+        }
+      ],
+      "uuid": "f09ab0a2-97b8-4a5e-8e4b-837128ef46a6"
+    },
+    {
+      "start_time": 2439,
+      "end_time": 2446,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "If you don't have any other questions or comments, I'll go ahead and stop the recording now. Okay.\n{LAUGHTER]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Transcription, Interviewer"
+        }
+      ],
+      "uuid": "bc1a8530-e9e6-42b2-b6ec-d6dc7bcb422b"
+    }
+  ],
   "set": "Default",
   "event_id": "07d4b313-d52c-48c7-b68e-ef38d7da08b4",
   "source_id": "d490f22f-75d4-4c9b-b045-19220feedddf"
