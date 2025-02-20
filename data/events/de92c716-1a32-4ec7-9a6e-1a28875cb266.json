@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "508d4ea8-c3ba-445f-9c64-85234d0bff6a": {
+      "label": "Language_Houston_NH_06212024",
+      "is_offline": false,
+      "file_url": "https://archive.org/download/nh-06212024/NH_06212024.m4a",
+      "duration": 1115,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Language_Houston_NH_06212024",
+  "created_at": "2025-02-20T19:23:42.307Z",
+  "created_by": "squant18",
+  "updated_at": "2025-02-20T19:23:42.307Z",
+  "updated_by": "squant18"
+}
