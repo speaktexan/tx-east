@@ -1,5 +1,1665 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 19,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[PAPER RUSTLING AND SOFA NOISE] This is Nicole He, today is June 21 2024, I am here in [COMMUNITY NAME] for an interview with one of our community members. Before we begin, I'd like to get verbal consent for the form that we went over. Could you please say I consent to being interviewed and audio recorded for the study, "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1d05757e-5357-4470-87f0-ec2736d6d510"
+    },
+    {
+      "start_time": 19,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I consent to be interviewed and audio recorded for the study. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9c54e748-c096-4829-87f4-1585d84b223b"
+    },
+    {
+      "start_time": 24,
+      "end_time": 28,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To get started, can you tell me about how you came to live in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "68e0ae85-cf56-4f15-9948-bfb295be03a4"
+    },
+    {
+      "start_time": 28,
+      "end_time": 46,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I, uh, I was born in [COMMUNITY NAME], and I've lived in [COMMUNITY NAME] pretty much my entire life. I, um, left [COMMUNITY NAME] to go to college. And then, uh, after that, for employment, I moved to Austin and Lufkin, and  and then I've moved back to [COMMUNITY NAME].  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "7f7c8489-28fb-4637-af33-0b60b44f82eb"
+    },
+    {
+      "start_time": 46,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, sounds good. Could you tell me a bit more about the [COMMUNITY NAME] community? How would you describe it to someone who doesn't live here? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "c2072d87-1f49-42a7-9068-c286d1535dbc"
+    },
+    {
+      "start_time": 53,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Uh it's just, uh, very well diverse, just, uh, people from all over the world. It's, uh, I think part of a big part of that's with that is the oil and gas industry, its economy is, uh, based on the oil and gas and the, uh, the high tech industry. And, uh, just that those two industries, bring a lot of people here and create a diverse community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "4af9fdcf-c1d1-4e9e-a15e-804819ee9128"
+    },
+    {
+      "start_time": 78,
+      "end_time": 84,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, definitely. How do you think this community has changed throughout your time living here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5cb34982-792e-4faf-8a54-8a351a9414e5"
+    },
+    {
+      "start_time": 84,
+      "end_time": 109,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's it's definitely more diverse people from all over the world. Uh, growing up, it wasn't like that. It was, uh, like I said, it was just pretty much oil and gas. That's what most people were in. And then, um, just as I've gotten older, and the city's grown, and just the populations grown a lot, and just just definitely a more diverse community. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3271c37f-fd30-4874-951c-73d9f78e2829"
+    },
+    {
+      "start_time": 109,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, definitely. So what would you say are the strengths of this community and on the other end, what are some of the weaknesses? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0efbde3a-a8b3-418c-ba79-f252d1577088"
+    },
+    {
+      "start_time": 117,
+      "end_time": 173,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, uh, [LAUGHS], the... the strength would be, I I think, uh, having a diverse community is very, uh, it's it's good for the community, people get to learn different cultures and meet, uh, people that are not from parts of the world that you're from. So you can definitely learn more about other people. Uh, being in a big city, unfortunately, what comes with a big city is crime. And you as, as I've gotten older, the city's definitely grown and the crime has gotten worse. And so it's not quite as safe as it was back when I was, uh, growing up as a kid, it's something you, you just have to be more aware of, and pay attention to your surroundings. And it's just just not as s-uh, safe feeling as it once was. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "9a21b155-4358-4106-893d-e207aa4bd060"
+    },
+    {
+      "start_time": 173,
+      "end_time": 179,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, that's definitely that's something that come up comes up a lot. So, um, what do you do for work? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "556644d6-1f31-49d0-a4fc-81fb6218f22c"
+    },
+    {
+      "start_time": 179,
+      "end_time": 203,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, I'm a, I own my own business. Uh, it's a trucking company. And we do local trucking for construction. And I do a lot of, um, also, uh, out of state trucking for basically the same construction for a whole lot of lumber and, and that's pretty much it.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "fa65a4f2-f98f-41ab-9eb2-4b4371ca2c4f"
+    },
+    {
+      "start_time": 203,
+      "end_time": 211,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright, so how do you think that specific job and business, um, and those connections in this community influence your work?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "26bb6fc9-90a4-4198-90e1-a767305574f0"
+    },
+    {
+      "start_time": 211,
+      "end_time": 217,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Um, so ask again, lemme think about that. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "aa314e6c-72c2-49cf-9f1a-7ce6da9e6a78"
+    },
+    {
+      "start_time": 217,
+      "end_time": 220,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So how do you think your connections in this community influence your work? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "71072eb4-53ee-4e6f-ab65-2c5c0720e318"
+    },
+    {
+      "start_time": 220,
+      "end_time": 248,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Well, the connections growing up here, you we, m-may- I have a business partner, and we both grew up in this area. And growing up here, we made a lot of just growing up here, you know, more people, you make more connections that way, and the more people you know, the more opportunities there are to to grow your business and do business with people that are in similar industries that you are. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ad06c4ec-7515-4c9f-a77e-4ff797cd7393"
+    },
+    {
+      "start_time": 248,
+      "end_time": 259,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so, um, being a business owner, like you've just mentioned, is that would you say, the connections and knowing people or how you got into this role, or how did you kind of decide to start this? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "93df2c27-b00b-4b75-8a20-a2d89ab34b90"
+    },
+    {
+      "start_time": 259,
+      "end_time": 294,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Actually, it was, uh, it's a family business, my father. Uh he he started this business back in 1980. And he and his business partner were in business together the entire time. They, his partner had a son, th-that's the same age as I am. And, uh, they saw an opportunity to pass this business on to us. So we've been running it and, uh, you know, unfortunately, both of our fathers have passed away and now it's become our business.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "2938440b-a3f5-4944-b3c4-79cf496dc44f"
+    },
+    {
+      "start_time": 294,
+      "end_time": 298,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay. So what does a typical workday look like for you? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "92f9a0b2-f8f1-45ff-847b-4c583fe6d661"
+    },
+    {
+      "start_time": 298,
+      "end_time": 347,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's- it can be so many different variables, we sometimes it can just be a smooth day, everything runs the way it's supposed to, you can sometimes get out of bed in the morning and just be sorry, you had to got out of bed because there's so many different things that could go wrong. Being in the trucking business, you can have breakdowns with equipment you can have, you know, having employees, you can have employees that don't show up for work, you can have unfortunate fender benders and accidents that can, uh, ruin your day. And just, it's, it could just go, um, yeah, for the most part, it's it's smooth, everything runs well. But when there's days that don't go your way, it's, it can be as frustrating as anything else. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "43421470-1dcd-4de6-b69e-430eb1cc624a"
+    },
+    {
+      "start_time": 347,
+      "end_time": 350,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So how long have you been working there? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3689d0f6-2465-482d-980d-87cf62678ad8"
+    },
+    {
+      "start_time": 350,
+      "end_time": 358,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Started in 1995, so that would be almost 30 years.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "85f69464-42cb-4f17-9ce4-84fac7796a35"
+    },
+    {
+      "start_time": 358,
+      "end_time": 364,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Okay, wow! So what does it mean to be in that business in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "65404f10-67a1-4c09-bdd5-caf793378245"
+    },
+    {
+      "start_time": 364,
+      "end_time": 407,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's well, I mean you can take a lot of pride, there's things I'll see that are being in the construction, things that are built with all the highways and the the infrastructure of the the city, I I can take pride in the fact that we participated in that growth that we know there'll be, for instance, you know, I've had customers who built parking garages and drive by, see those parking garages, as you know, we do work that's been used to develop neighborhoods and build highways, and just you just can take a lot of pride and just feel really good about yourself that you're helping the city, uh, grow and make it more enjoyable for others. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d55d70e0-1490-41a2-b4e9-2f85c27b2ff9"
+    },
+    {
+      "start_time": 407,
+      "end_time": 415,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah. So on the note of that kind of pride, d-would you say that's the aspect of your job that brings you the most joy or satisfaction? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e1b7f8fd-6158-45a6-913b-b2e6c56e1972"
+    },
+    {
+      "start_time": 415,
+      "end_time": 416,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I would think so. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "3e2fb58d-2445-4189-8716-bd5a4502297c"
+    },
+    {
+      "start_time": 416,
+      "end_time": 421,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah? And then other end, what are some of the biggest challenges you face at work? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "12ba1a97-cb92-489c-8ece-84f6b8b06955"
+    },
+    {
+      "start_time": 421,
+      "end_time": 512,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It's like I said, it's, um, you know, being in the trucking business, you have a lot of liability. And we have...we c- we have like, minor accidents that people try to take advantage because they know we have, carry large insurance. So I've in that, and unfortunately, my because of these claims that we do have with insurance, not just us but the whole industry in a whole, the cost of doing business has skyrocketed in the past five years, my, my cost to insure one truck cost me six, seven times as much as it did five years ago. So it's hard to pass that expense on to your customers. And it's just probably the, that's, one of the hardest things to deal with is just the the cost and with, you know, inflation parts, we go back to even during COVID, you had a shortage of parts. And so if we had a truck breakdown, and we had a trailer breakdown, we were down longer than usual. You just, uh, just things like that- price of fuel. When that goes up, that's another thing we have. It's a- it's tough. So when you're dealing with some of these, um, variable expenses, y-it's just very difficult to to balance it all out and just, you know, keep things running as smooth as as they once were. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "67a2c251-83aa-45a9-af3e-5318e01d7499"
+    },
+    {
+      "start_time": 512,
+      "end_time": 543,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, definitely. So now let's talk more about your experiences as a resident of this community. For this first set of questions. I'll read a statement to you and I'd like you to indicate the extent of your agreement with each one. I'll have you answer on a scale of one to four where one is completely disagree, two is somewhat disagree, three is somewhat agree, and four is completely agree. If you'd like to comment on any of the statements, please feel free to, um, or you can just answer like one through four after I finish reading it. The first phrase is, I consider myself to be an American.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "96ddd853-8f8e-4356-9b67-935be8083f8c"
+    },
+    {
+      "start_time": 543,
+      "end_time": 544,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8b1dcb57-4850-45fc-b549-2869b749fd93"
+    },
+    {
+      "start_time": 544,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Using the same scale how would you rate the following statement? I consider myself to be a Texan.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f8f06910-c2fd-4e64-867e-de22788f77b8"
+    },
+    {
+      "start_time": 549,
+      "end_time": 550,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Four. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "03337f90-1f62-46cb-bc3d-9f2cc6c259b4"
+    },
+    {
+      "start_time": 550,
+      "end_time": 565,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which of the following three statements do you agree with most strongly: One, I am an American first and Texas sec-Texan Second. Second, I am an a Texan first and American second or third, being Texan and American are equally important to me. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "bfef01b0-7dff-4332-b1e4-2fbb6a2178c3"
+    },
+    {
+      "start_time": 565,
+      "end_time": 567,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'd say equal- equally as important to me.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "d88337d5-1c78-4aa4-aaad-278ca4d2256c"
+    },
+    {
+      "start_time": 567,
+      "end_time": 580,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. The next phrase is to be a true Texan you must know how to speak English. What would you rate this one using the same scale we started with? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "48758013-ed06-422f-932c-94a39b3923d7"
+    },
+    {
+      "start_time": 580,
+      "end_time": 583,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LONG PAUSE] Ah-? Two. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "07cf01fd-4673-4892-8768-2c379ad0ea66"
+    },
+    {
+      "start_time": 583,
+      "end_time": 590,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, how about to be a true Texan you must know how to speak Spanish. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a366dfad-aa38-462b-a7c6-37319e213ff1"
+    },
+    {
+      "start_time": 590,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[LONG PAUSE] One [LAUGHS]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8c9cb7c6-6670-44c1-b667-170b97f63cae"
+    },
+    {
+      "start_time": 591,
+      "end_time": 601,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The next phrase is \"In my community, you can do everything you want and get everything you need even when you don't speak English.\"  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "28da5fd7-5c6c-4852-a9cb-3b92230ab44d"
+    },
+    {
+      "start_time": 601,
+      "end_time": 603,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "One. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b3b2986f-876d-45e4-b2e8-3aa7c18f863c"
+    },
+    {
+      "start_time": 603,
+      "end_time": 612,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Finally, in my community, life has been pretty stable over the last 40 years things haven't changed much.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "42dd0617-7d1e-4fbd-b499-ea1cc67b8dd5"
+    },
+    {
+      "start_time": 612,
+      "end_time": 614,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Three.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "f0a50427-fa99-4993-a3f0-3fb34dde7862"
+    },
+    {
+      "start_time": 614,
+      "end_time": 623,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, now I'd like to hear from you about the community itself. What are some of the things that have changed in this community during the last few decades? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "b6247995-eedc-47be-a7f4-9616630fa913"
+    },
+    {
+      "start_time": 623,
+      "end_time": 674,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I, I'd say definitely growth. I mean, it's uh, the city. It-it's, you know, even you-you've talked about suburbs. We talked about just uh, [COMMUNITY SUBURB NAME],  [ANOTHER COMMUNITY SUBURB NAME],  [ANOTHER COMMUNITY SUBURB NAME], uh. Y-y-you know, when I grew up, all you had was, uh, the only loop in the city was [COMMUNITY HIGHWAY NAME]. Now, you have the [ANOTHER COMMUNITY HIGHWAY NAME], and [ANOTHER COMMUNITY HIGHWAY NAME]. It's just just keeps on growing outwards. It's just, yeah, it's it's way big. I mean, just, uh, think about where I lived growing up, and to get to where we are now. Eh, I mean, it's, I mean, there was nothing, nothing out here. There's cow pastures. So it's, uh it's just grown. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ad41df9c-86b2-4c88-b2d2-5489438d7b19"
+    },
+    {
+      "start_time": 674,
+      "end_time": 679,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, definitely. So speaking on that growth, would you say this is a good community to live in?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "4842b171-6a67-43dc-8c2e-6d7183b43bf3"
+    },
+    {
+      "start_time": 679,
+      "end_time": 680,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "0c46e248-21e6-43f1-afb4-bf2960f7175d"
+    },
+    {
+      "start_time": 680,
+      "end_time": 684,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. What was or is the best part about being a kid or a young person in this community? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "977b644b-65ce-4b50-894d-4d99f1ebcb7a"
+    },
+    {
+      "start_time": 684,
+      "end_time": 727,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "It it was just the neighborhood I grew up in was a it was a fun neighborhood. We have lots of kids our age and, uh, we just all went to school together. And it it was just y'know a nice, at that time, safe place to live and had, uh, just being in Texas you- the neighborhoods you have everybody has nice yards and just loys of the areas to run around and play and play uh- I like sports and play. Had great little league for baseball and for football. It's just just really just just, it was a lot of fun growing up in [COMMUNITY NAME].  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b438b189-b936-49f8-897f-744eba3b05e5"
+    },
+    {
+      "start_time": 727,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah definitely. Hanging around with the neighbors.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "1084f7f3-509c-4d8e-8e8a-ac6d3741289c"
+    },
+    {
+      "start_time": 730,
+      "end_time": 730,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c0d52d33-10ba-4551-9059-397005fc4307"
+    },
+    {
+      "start_time": 730,
+      "end_time": 737,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Do you feel that the traditional way of life in this community is going away? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "dc4c7b90-a7b7-4389-8196-b5a47560f850"
+    },
+    {
+      "start_time": 737,
+      "end_time": 779,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not completely. It's it's it's definitely changed. When you look at where we how we grew up, um, we didn't have we didn't have all this technology. You couldn't watch whatever you wanted to watch on TV. You- so you're outside play most of the time. And and y'know nowadays, uh, the kids grown nowadays, y'all with the technology y'all don't even y'all can have a face to face conversation over your phone. You don't have to- I I just think he, it just seems like most kids nowadays might spend a little bit more time inside and just have other things to to distract them from going outside and enjoying what you can like we did.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "8063c57a-2a28-4911-8641-5dfe9c832a44"
+    },
+    {
+      "start_time": 779,
+      "end_time": 783,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so what is your favorite sports team and how have they been doing lately? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6a709cc0-3de7-40c1-835e-521eb2be55c5"
+    },
+    {
+      "start_time": 783,
+      "end_time": 799,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The Houston Astros. And they've spoiled me in the past seven years. But they, they're not having a good year this year. But I I still have faith. I think they'll turn it around and and hopefully get back on top like they were. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "bf8936b0-c3fa-4fce-9456-45a638d30f24"
+    },
+    {
+      "start_time": 799,
+      "end_time": 804,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, hopefully. And did you have to do chores when you were younger?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "70708787-da54-4c2b-9868-41ceb456ade1"
+    },
+    {
+      "start_time": 804,
+      "end_time": 816,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes, I did, um, I had to mow the yard. Had to help my mom sometimes do some cleaning around the house and, um "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "494a0d0d-c7f6-4994-ad96-55a7abe5bd75"
+    },
+    {
+      "start_time": 816,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Which one was like the  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "e09d6b0d-c219-44ec-94a1-b6b782ee870a"
+    },
+    {
+      "start_time": 817,
+      "end_time": 817,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[INAUDIBLE NOISE] "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a15764cc-ddd1-4579-819a-bc4e3183a000"
+    },
+    {
+      "start_time": 817,
+      "end_time": 819,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "worst one? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "a65e8ccf-73c9-45f4-9893-10098ad4fe3a"
+    },
+    {
+      "start_time": 819,
+      "end_time": 820,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Probably mowing the yard. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "ba5a9f7f-f2c9-419b-a62f-977bc058562a"
+    },
+    {
+      "start_time": 820,
+      "end_time": 823,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " And then what was one that you didn't mind so much? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "664dd6f1-e2ae-4b7c-8225-a0589eab0f20"
+    },
+    {
+      "start_time": 823,
+      "end_time": 837,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I just eh-I I I didn't like any of them [LAUGHS]. Maybe, maybe I guess doing the cleaning a little bit or something, I don't know [INAUDIBLE] n-none of the chores are fun.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "6d0ca907-4f65-4a59-bd6a-28702163bb01"
+    },
+    {
+      "start_time": 837,
+      "end_time": 843,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, so speaking on not liking chores, did you ever get caught pretending to do a chore but not really doing it? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "f524cf8e-194c-4a7e-9b57-3a3d8434f31f"
+    },
+    {
+      "start_time": 843,
+      "end_time": 848,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, probably a few times I was told to clean my room and threw everything in my closet or under my bed. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c7121887-c813-473a-87c6-c2e1a4304d48"
+    },
+    {
+      "start_time": 848,
+      "end_time": 855,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I mean, I've definitely been there before. [BOTH LAUGHING] Some people think that it's hard for boys and girls to be friends. What do you think? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "78938bdd-e55b-44c9-a0f3-1e7b2e9985d3"
+    },
+    {
+      "start_time": 855,
+      "end_time": 858,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I don't think so.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "a310211d-3a7b-42e0-85d3-a6d0a9139911"
+    },
+    {
+      "start_time": 858,
+      "end_time": 867,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. And then did you ever tell a story about another person thinking the other person was not near you, but then turned around and saw that the person was standing right next to you? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "6e91c61b-cb22-43bb-bf5a-21704570efd0"
+    },
+    {
+      "start_time": 867,
+      "end_time": 872,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Oh, yeah, I'm sure [LAUGHING], I mean... "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "5c3ca81c-b1ac-4d24-afc5-6352e1f62382"
+    },
+    {
+      "start_time": 872,
+      "end_time": 874,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Could you tell me about that? What happened? "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "7e53e41d-eeb6-4ee3-8241-9217eed8bc1c"
+    },
+    {
+      "start_time": 874,
+      "end_time": 907,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I can't think of a certain, uh, time I've done that I I just but I know, I've- there's been times when you're, you- I I I assume you're talking about maybe like if you're gossiping or something like that. And they're just your friends kind of give me that look like \"Hey,\" [LAUGHS]. I I can't recall like uh- growing up I'm sure I did several times. Um, uh, now that I've gotten older and I respect people a lot more. So I definitely do not like to talk behind people's backs. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "1f61536f-591c-414d-ab3d-9a016481882d"
+    },
+    {
+      "start_time": 907,
+      "end_time": 916,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yeah, but we've definitely all been there before though. A lot of people think the 1990s as the golden decade of pop music, do you agree?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "3e38388a-b408-4a86-97a9-6891dfcd9bba"
+    },
+    {
+      "start_time": 916,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "To the 1990s? No, I would say the the 70s in the 80s.  Uh, I- I guess. I guess I can't pick two decades, I'd-I'd say the 80s. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "51ebf035-bd0f-4687-afa1-969fb6d1f176"
+    },
+    {
+      "start_time": 923,
+      "end_time": 967,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Alright- The 80s? Alright, sounds good. So thank you so much for your answers. I really appreciate you taking the time to talk with me if you have time. I just have one last request for you before we conclude our interview, one of the overarching research questions through the Home to Texas program is about linguistic changes in Texas. As part of this project on linguistic researchers asking that interview participants read a brief passage which should only take a couple minutes. It's a short made up story about life in Texas that was created in the 1980s, and since then, linguistic researchers have recorded a few 100 Texans reading it. They use these recordings as samples of people's standard way of speaking as they try to track how speech in Texas varies and changes over time. Would you be willing to read a brief passage out loud?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "59eaa3b0-4c79-4a50-88c4-15ec16cd12da"
+    },
+    {
+      "start_time": 967,
+      "end_time": 968,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Yes. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "c8394416-9919-47f6-9beb-48f59525f413"
+    },
+    {
+      "start_time": 968,
+      "end_time": 973,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right. Here's the passage [PAPER AND SHUFFLING NOISES]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "5aefd0ba-c2a8-4c42-87eb-9605cbdbff40"
+    },
+    {
+      "start_time": 973,
+      "end_time": 974,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I'm just gonna read this whole thing?  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "b330e345-b8f5-43d1-8f96-4be7e5531946"
+    },
+    {
+      "start_time": 974,
+      "end_time": 975,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mhm! "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "0bdf0a7b-6643-457f-a837-073278a441b4"
+    },
+    {
+      "start_time": 975,
+      "end_time": 1103,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I've lived in Texas all my life. I was born in Titus County. And when I was five, we moved to a farm near White House, which is southeast of Tyler. I like growing up in the country. [PAPER RUSTLING]. When my chores were done, I'd ride my horse, climb trees, or hike down to the creek to fish or swim. One time we tied a rope to a limb of a cypress tree. And we'd swing out wide over the swimming hole and drop into the water. I'd pretend to be Tarzan swinging on a vine. In the spring, I'd like I- I'd fly kites. And on, summer nights we'd catch fireflies, but we call them lightning bugs. Once in a while we'd have fights with corn cobs or pine cones. In the winter, we build a fire in the fireplace and pop popcorn and roast peanuts and pecans. I guess I was a live wire. When I was 19 I went to work in Dallas at a Firestone Tire store. I didn't like city life and for a long time I'd go home every chance I got. Mama would always cook my favorite foods fried okra hoppin' john, that rice and black eyed peas, and pecan pie. We had a lots of good times, but going home is not the same now. After daddy died, Mama sold the farm and moved to Tyler. I'd rather be living on a farm right now instead of here in the city. But my wife and kids don't understand me when I gripe about city life and talk about moving to the country. My oldest child says Daddy, that's crazy. I'd just die if I had to live on a farm. I'd almost cried the first time she said that. I know Texas is changing, but I tried to make sure we don't lose touch with our roots. While we may live in a city, I want my kids to have a good feeling for the land, have a sense of place and take pride of being Texans. If they lose our ties to the land. The price of progress is too high.  "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Participant"
+        }
+      ],
+      "uuid": "693cad7d-4b9f-45df-ab10-a87c795cec0a"
+    },
+    {
+      "start_time": 1103,
+      "end_time": 1115,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "All right, thank you for contributing your voice to the collection, and thank you so much for taking the time to share your experiences with me. I really appreciate your time and generosity. If you don't have any other questions or comments. I'll go ahead and stop the recording now [CREAKING CHAIR NOISE]. "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Speaker",
+          "tag": "Interviewer"
+        }
+      ],
+      "uuid": "fda04192-10e5-4315-97f8-de6f7058d028"
+    }
+  ],
   "set": "Default",
   "event_id": "de92c716-1a32-4ec7-9a6e-1a28875cb266",
   "source_id": "508d4ea8-c3ba-445f-9c64-85234d0bff6a"
