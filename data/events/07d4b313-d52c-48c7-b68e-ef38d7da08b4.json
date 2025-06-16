@@ -3,7 +3,7 @@
     "d490f22f-75d4-4c9b-b045-19220feedddf": {
       "label": "Language_Beaumont_MM_06252024",
       "is_offline": false,
-      "file_url": "https://ia801700.us.archive.org/32/items/mm-06252024/MM_06252024.m4a",
+      "file_url": "https://archive.org/download/mm-06252024/Language_Beaumont_MM_06252024.mp3",
       "duration": 2445,
       "caption_set": []
     }
@@ -24,6 +24,9 @@
   "label": "Language_Beaumont_MM_06252024",
   "created_at": "2025-02-13T14:51:50.427Z",
   "created_by": "JennSmith26",
-  "updated_at": "2025-02-13T14:51:50.427Z",
-  "updated_by": "JennSmith26"
+  "updated_at": "2025-06-16T22:13:14.572Z",
+  "updated_by": "speaktexan",
+  "av_file_order": [
+    "d490f22f-75d4-4c9b-b045-19220feedddf"
+  ]
 }
